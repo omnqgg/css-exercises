@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 0, 157);
+    font-family:Verdana, dejaVu sans, sans-serif;
+  
+    }
+    /* all odd numbers */
+    #first {
+    color:hsl(240,100%,50%);
+    font-size:36px;
+    }  
+    /* second line */
+.cool { font-size:24px;
+  
+        }
+        /* third line */
+ 
+#second {background-color: #19ff12;
+    font-size:24px;
+    font-weight:bold;
+  
+    }
+    /* fourth line */
